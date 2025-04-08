@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:red_carpet"
+    },
+    "b": {
+      "item": "minecraft:black_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:patterned_carpet_dotted_ring_red_and_black",
+    "count": 9
+  }
+}

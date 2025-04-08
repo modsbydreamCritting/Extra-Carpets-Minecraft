@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "cdc",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:yellow_carpet"
+    },
+    "b": {
+      "item": "minecraft:lime_carpet"
+    },
+    "c": {
+      "item": "minecraft:light_blue_carpet"
+    },
+    "d": {
+      "item": "minecraft:brown_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:dimension_carpet_overworld",
+    "count": 9
+  }
+}

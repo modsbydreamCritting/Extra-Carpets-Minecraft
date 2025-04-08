@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "bbb",
+    "dbe"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:red_carpet"
+    },
+    "b": {
+      "item": "minecraft:black_carpet"
+    },
+    "c": {
+      "item": "minecraft:lime_carpet"
+    },
+    "d": {
+      "item": "minecraft:yellow_carpet"
+    },
+    "e": {
+      "item": "minecraft:blue_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:arcade_carpet_geometric",
+    "count": 9
+  }
+}

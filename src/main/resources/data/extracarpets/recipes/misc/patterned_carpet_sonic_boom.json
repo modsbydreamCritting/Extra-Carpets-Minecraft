@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bbb",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:black_carpet"
+    },
+    "b": {
+      "item": "minecraft:cyan_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:patterned_carpet_sonic_boom",
+    "count": 9
+  }
+}

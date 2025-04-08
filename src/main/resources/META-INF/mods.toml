@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="extracarpets"
+version="1.1"
+displayName="Extra Carpets"
+displayURL="https://legacy.curseforge.com/minecraft/mc-mods/extra-carpets"
+credits="Created by dreamCritting"
+authors="Dreamcritting"
+description="Adds lots of new carpets!"
+
+[[dependencies.extracarpets]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

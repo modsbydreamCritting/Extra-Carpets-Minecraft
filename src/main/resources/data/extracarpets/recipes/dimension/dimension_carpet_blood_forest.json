@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:red_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:dimension_carpet_blood_forest",
+    "count": 9
+  }
+}

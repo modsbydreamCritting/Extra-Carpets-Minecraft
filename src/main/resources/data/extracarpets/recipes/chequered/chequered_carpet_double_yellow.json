@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bab",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:yellow_carpet"
+    },
+    "b": {
+      "item": "minecraft:orange_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:chequered_carpet_double_yellow",
+    "count": 9
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bbb",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:blue_carpet"
+    },
+    "b": {
+      "item": "minecraft:yellow_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:patterned_carpet_geometry_dash",
+    "count": 9
+  }
+}

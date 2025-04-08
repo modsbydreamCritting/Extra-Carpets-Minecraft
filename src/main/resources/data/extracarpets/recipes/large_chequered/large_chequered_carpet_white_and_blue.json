@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:white_carpet"
+    },
+    "b": {
+      "item": "minecraft:black_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:large_chequered_carpet_white_and_black",
+    "count": 4
+  }
+}

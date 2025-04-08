@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "bab",
+    "aaa",
+    "bab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:white_carpet"
+    },
+    "b": {
+      "item": "minecraft:black_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:diamond_carpet_white_and_black",
+    "count": 9
+  }
+}

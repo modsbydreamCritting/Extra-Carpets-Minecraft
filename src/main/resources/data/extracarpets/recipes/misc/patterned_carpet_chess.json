@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bab",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:black_carpet"
+    },
+    "b": {
+      "item": "minecraft:white_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:patterned_carpet_chess",
+    "count": 9
+  }
+}

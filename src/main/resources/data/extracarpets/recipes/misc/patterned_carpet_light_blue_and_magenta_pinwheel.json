@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abb",
+    "aaa",
+    "bba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:light_blue_carpet"
+    },
+    "b": {
+      "item": "minecraft:magenta_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:patterned_carpet_light_blue_and_magenta_pinwheel",
+    "count": 9
+  }
+}

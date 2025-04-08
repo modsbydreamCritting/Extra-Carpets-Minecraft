@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aab",
+    "bba",
+    "bab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:lime_carpet"
+    },
+    "b": {
+      "item": "minecraft:green_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:spiral_carpet_double_green",
+    "count": 9
+  }
+}

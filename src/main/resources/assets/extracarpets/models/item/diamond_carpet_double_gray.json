@@ -1,0 +1,24 @@
+{
+  "parent": "extracarpets:block/diamond/doublegray",
+  "display": {
+    "thirdperson": {
+      "rotation": [
+        10,
+        -45,
+        170
+      ],
+      "translation": [
+        0,
+        1.5,
+        -2.75
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+     }, "fixed": {
+			"rotation": [90, -180, 0],
+			"translation": [0, 0, 16.7],
+			"scale": [2, 2.1, 2]
+		}}}

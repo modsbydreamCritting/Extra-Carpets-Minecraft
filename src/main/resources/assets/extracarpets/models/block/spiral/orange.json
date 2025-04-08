@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/carpet",
+  "textures": {
+    "wool": "extracarpets:block/spiral_carpet_white_and_orange"
+  }
+}

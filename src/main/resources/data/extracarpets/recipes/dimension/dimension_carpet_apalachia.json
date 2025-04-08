@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:pink_carpet"
+    },
+    "b": {
+      "item": "minecraft:magenta_carpet"
+    },
+    "c": {
+      "item": "minecraft:brown_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:dimension_carpet_apalachia",
+    "count": 9
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bbb",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:black_carpet"
+    },
+    "b": {
+      "item": "minecraft:red_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:patterned_carpet_red_skulls",
+    "count": 9
+  }
+}

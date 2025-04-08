@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abb",
+    "aaa",
+    "bba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:white_carpet"
+    },
+    "b": {
+      "item": "minecraft:green_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:patterned_carpet_green_pinwheel",
+    "count": 9
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "cdc",
+    "eee"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:yellow_carpet"
+    },
+    "b": {
+      "item": "minecraft:pink_carpet"
+    },
+    "c": {
+      "item": "minecraft:light_blue_carpet"
+    },
+    "d": {
+      "item": "minecraft:blue_carpet"
+    },
+    "e": {
+      "item": "minecraft:cyan_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:dimension_carpet_vellium",
+    "count": 9
+  }
+}

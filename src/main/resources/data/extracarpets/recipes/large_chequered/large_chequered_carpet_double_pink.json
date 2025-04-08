@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:pink_carpet"
+    },
+    "b": {
+      "item": "minecraft:magenta_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:large_chequered_carpet_double_pink",
+    "count": 4
+  }
+}

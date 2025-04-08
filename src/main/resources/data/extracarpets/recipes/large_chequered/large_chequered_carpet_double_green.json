@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:lime_carpet"
+    },
+    "b": {
+      "item": "minecraft:green_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:large_chequered_carpet_double_green",
+    "count": 4
+  }
+}

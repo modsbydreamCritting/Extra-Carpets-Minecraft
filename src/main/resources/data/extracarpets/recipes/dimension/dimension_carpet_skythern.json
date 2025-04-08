@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:white_carpet"
+    },
+    "b": {
+      "item": "minecraft:light_gray_carpet"
+    },
+    "c": {
+      "item": "minecraft:gray_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:dimension_carpet_skythern",
+    "count": 9
+  }
+}

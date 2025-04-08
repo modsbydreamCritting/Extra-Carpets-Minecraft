@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abb",
+    "bab",
+    "bba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:black_carpet"
+    },
+    "b": {
+      "item": "minecraft:yellow_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:patterned_carpet_hazard",
+    "count": 9
+  }
+}

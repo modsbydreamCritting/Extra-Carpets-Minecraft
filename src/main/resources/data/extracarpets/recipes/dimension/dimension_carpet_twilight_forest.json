@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:blue_carpet"
+    },
+    "b": {
+      "item": "minecraft:green_carpet"
+    },
+    "c": {
+      "item": "minecraft:black_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:dimension_carpet_twilight_forest",
+    "count": 9
+  }
+}

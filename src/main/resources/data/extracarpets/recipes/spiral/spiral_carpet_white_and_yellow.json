@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aab",
+    "bba",
+    "bab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:white_carpet"
+    },
+    "b": {
+      "item": "minecraft:yellow_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:spiral_carpet_white_and_yellow",
+    "count": 9
+  }
+}

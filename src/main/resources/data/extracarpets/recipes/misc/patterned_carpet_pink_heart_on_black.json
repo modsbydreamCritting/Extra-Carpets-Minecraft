@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bbb",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:black_carpet"
+    },
+    "b": {
+      "item": "minecraft:pink_carpet"
+    }
+  },
+  "result": {
+    "item": "extracarpets:patterned_carpet_pink_heart_on_black",
+    "count": 9
+  }
+}
